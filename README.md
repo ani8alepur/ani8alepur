@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ani
-- 👀 I’m interested in applying ML technique to solve a variety of problems problems
+- 👀 Currently interested in data engineering for analytics & deep learning
 
 <!---
 ani8alepur/ani8alepur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
